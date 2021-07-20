@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @joeyrettin
+- ***👋 Hi, I’m @joeyrettin***
 - 👀 I'm interested in programming technologies. I'm new ! Working Hard !
-- 🌱 I’m currently learning Python 3. 
+- 🌱 I’m currently learning Front-End Developing. 
 - 📫 you can find reach me : sero.fidan001@gmail.com
 
 <!---
